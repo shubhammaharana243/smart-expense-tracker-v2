@@ -38,18 +38,19 @@ Stores the expense data in JSON format.
 
 ▶️ How to Run
 1. Clone the repository
-
+```text
 git clone https://github.com/shubhammaharana243/smart-expense-tracker-v2.git
-
+```
 3. Open the project folder
-
+```text
 cd smart-expense-tracker-v2
-
+```
 4. Run the application
-
+```text
 python index.py
-
+```
 📌 Example Expense
+```text
 {
     "id": 1,
     "amount": 100,
@@ -57,7 +58,7 @@ python index.py
     "description": "Lunch",
     "date": "2026-09-18"
 }
-
+```
 🎯 Learning Goals
 
 This project was created to practice:
