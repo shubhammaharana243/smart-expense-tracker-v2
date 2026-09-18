@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "date": "02-08-2026",
+        "category": "Food",
+        "amount": 250,
+        "description": "lunch"
+    },
+    {
+        "id": 2,
+        "date": "05-08-2026",
+        "category": "Transport",
+        "amount": 120,
+        "description": "Bus"
+    },
+    {
+        "id": 3,
+        "date": "08-08-2026",
+        "category": "Shopping",
+        "amount": 800,
+        "description": "T-Shirt"
+    },
+    {
+        "id": 4,
+        "date": "11-08-2026",
+        "category": "Education",
+        "amount": 300,
+        "description": "Notebook"
+    },
+    {
+        "id": 5,
+        "date": "14-08-2026",
+        "category": "Food",
+        "amount": 450,
+        "description": "Dinner"
+    },
+    {
+        "id": 6,
+        "date": "17-08-2026",
+        "category": "Entertainment",
+        "amount": 600,
+        "description": "Movie"
+    },
+    {
+        "id": 7,
+        "date": "20-08-2026",
+        "category": "Transport",
+        "amount": 180,
+        "description": "Auto"
+    },
+    {
+        "id": 8,
+        "date": "23-08-2026",
+        "category": "Bills",
+        "amount": 900,
+        "description": "Electricity Bill"
+    },
+    {
+        "id": 9,
+        "date": "26-08-2026",
+        "category": "Food",
+        "amount": 200,
+        "description": "Breakfast"
+    },
+    {
+        "id": 10,
+        "date": "30-08-2026",
+        "category": "Shopping",
+        "amount": 1200,
+        "description": "Shoes"
+    },
+    {
+        "id": 11,
+        "date": "01-09-2026",
+        "category": "Food",
+        "amount": 350,
+        "description": "Lunch"
+    },
+    {
+        "id": 12,
+        "date": "04-09-2026",
+        "category": "Transport",
+        "amount": 100,
+        "description": "Bus"
+    },
+    {
+        "id": 13,
+        "date": "07-09-2026",
+        "category": "Education",
+        "amount": 500,
+        "description": "Python Course"
+    },
+    {
+        "id": 14,
+        "date": "10-09-2026",
+        "category": "Entertainment",
+        "amount": 700,
+        "description": "Game"
+    },
+    {
+        "id": 15,
+        "date": "13-09-2026",
+        "category": "Food",
+        "amount": 280,
+        "description": "Dinner"
+    },
+    {
+        "id": 16,
+        "date": "16-09-2026",
+        "category": "Shopping",
+        "amount": 1500,
+        "description": "Jeans"
+    },
+    {
+        "id": 17,
+        "date": "19-09-2026",
+        "category": "Bills",
+        "amount": 600,
+        "description": "Mobile Recharge"
+    },
+    {
+        "id": 18,
+        "date": "22-09-2026",
+        "category": "Transport",
+        "amount": 250,
+        "description": "Cab"
+    },
+    {
+        "id": 19,
+        "date": "25-09-2026",
+        "category": "Food",
+        "amount": 400,
+        "description": "Restaurant"
+    },
+    {
+        "id": 20,
+        "date": "29-09-2026",
+        "category": "Education",
+        "amount": 350,
+        "description": "Book"
+    }
+]
